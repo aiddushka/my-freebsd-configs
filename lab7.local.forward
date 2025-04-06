@@ -1,5 +1,5 @@
 $TTL 3600
-@       IN      SOA     server1.lab.local. admin.lab7.local. (
+@       IN      SOA     server1.lab7.local. admin.lab7.local. (
                         2024040601      ; Serial
                         3600            ; Refresh
                         900             ; Retry
